@@ -6,7 +6,7 @@
 <p align="left">
   <a href="https://github.com/tamu-csce-capstone-2025-spring-hammond/menu-vision" target="_blank" style="color:blue; text-decoration:underline;">
     AR Menu Vision
-  </a> – A Mobile AR application that visualizes restaurant menu items in 3D.<br>
+  </a> – A Mobile AR application that visualizes restaurant menu items in 3D to help minimize decision fatigue for users.<br>
 
   <a href="https://github.com/cfgtexas24/Team-20" target="_blank" style="color:blue; text-decoration:underline;">
     JP Morgan Code For Good
