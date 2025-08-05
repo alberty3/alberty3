@@ -1,5 +1,6 @@
 <h1 align="left">Hi! 👋, I'm Albert Yin</h1>
-<h3 align="left">Computer Science and Business at Texas A&M University</h3>
+<h3 align="left">🏫Texas A&M University
+<h3 align="left">💻Computer Science and 💼Business</h3>
 
 <h3 align="left">Projects</h3>
 <p align="left">
@@ -18,7 +19,7 @@
 </p>
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin: 10px;"/>
@@ -57,3 +58,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin: 10px;"/>
   </a>
 </p>
+
