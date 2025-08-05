@@ -6,14 +6,16 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alberty3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alberty3" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Projects:<h/3>
+<h3 align="left">Projects:</h3>
 <p align="left">
-<a href="https://github.com/tamu-csce-capstone-2025-spring-hammond/menu-vision" target="blank">
-  AR Menu Vision
-<\a> - A Mobile AR application that visualizes restaurant menu items in 3D.<br>
-<a href="https://github.com/cfgtexas24/Team-20" target="blank">
-  JP Morgan Code For Good
-<\a> - Won 1st Place at JP Morgan's Code For Good, Built a platform to aid homeless individuals for a nonprofit.<br>
+  <a href="https://github.com/tamu-csce-capstone-2025-spring-hammond/menu-vision" target="_blank" style="color:blue; text-decoration:underline;">
+    AR Menu Vision
+  </a> – A Mobile AR application that visualizes restaurant menu items in 3D.<br>
+
+  <a href="https://github.com/cfgtexas24/Team-20" target="_blank" style="color:blue; text-decoration:underline;">
+    JP Morgan Code For Good
+  </a> – Won 1st Place at JP Morgan's Code For Good, built a platform to aid homeless individuals for a nonprofit.
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
