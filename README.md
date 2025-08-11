@@ -1,6 +1,6 @@
 <h1 align="left">Hi! 👋, I'm Albert Yin</h1>
 <h3 align="left">🏫Texas A&M University
-<h3 align="left">💻Computer Science and 💼Business</h3>
+<h3 align="left">Computer Science and Business</h3>
 
 <h3 align="left">📂Projects</h3>
 <p align="left">
