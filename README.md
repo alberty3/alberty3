@@ -2,7 +2,7 @@
 <h3 align="left">🏫Texas A&M University
 <h3 align="left">Computer Science and Business</h3>
 
-<h3 align="left">📂Projects</h3>
+<h3 align="left">Projects</h3>
 <p align="left">
   <a href="https://github.com/tamu-csce-capstone-2025-spring-hammond/menu-vision" target="_blank" style="color:blue; text-decoration:underline;">
     AR Menu Vision
@@ -13,13 +13,13 @@
   </a> – Won 1st Place at JP Morgan's Code For Good, built a platform to aid homeless individuals for a nonprofit.
 </p>
 
-<h3 align="left">🔗Connect with me!</h3>
+<h3 align="left">Connect with me!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alberty3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alberty3" height="30" width="40" /></a>
 </p>
 
 
-<h3 align="left">🔨Languages and Tools</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin: 10px;"/>
