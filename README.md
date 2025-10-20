@@ -13,7 +13,7 @@
   </a> – Won 1st Place at JP Morgan's Code For Good, built a platform to aid homeless individuals for a nonprofit.
 </p>
 
-<a href="ttps://github.com/iamjeffx/DCIA-CollegeGPT" target="_blank" style="color:blue; text-decoration:underline;">
+  <a href="https://github.com/iamjeffx/DCIA-CollegeGPT" target="_blank" style="color:blue; text-decoration:underline;">
     Syllabus Chatbot
   </a> – Developed full-stack web-app that allows users to summarize syallbus information and organize them into google calendar, notion, etc.
 </p>
