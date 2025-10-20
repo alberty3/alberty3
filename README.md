@@ -10,7 +10,7 @@
 
   <a href="https://github.com/cfgtexas24/Team-20" target="_blank" style="color:blue; text-decoration:underline;">
     JP Morgan Code For Good
-  </a> – Won 1st Place at JP Morgan's Code For Good, built a platform to aid homeless individuals for a nonprofit.
+  </a> – Won 1st Place at JP Morgan's Code For Good, built a platform to aid homeless individuals for a nonprofit.<br>
 
   <a href="https://github.com/iamjeffx/DCIA-CollegeGPT" target="_blank" style="color:blue; text-decoration:underline;">
     Syllabus Chatbot
