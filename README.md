@@ -13,6 +13,11 @@
   </a> – Won 1st Place at JP Morgan's Code For Good, built a platform to aid homeless individuals for a nonprofit.
 </p>
 
+<a href="ttps://github.com/iamjeffx/DCIA-CollegeGPT" target="_blank" style="color:blue; text-decoration:underline;">
+    Syllabus Chatbot
+  </a> – Developed full-stack web-app that allows users to summarize syallbus information and organize them into google calendar, notion, etc.
+</p>
+
 <h3 align="left">Connect with me!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alberty3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alberty3" height="30" width="40" /></a>
